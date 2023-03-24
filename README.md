@@ -34,9 +34,9 @@ These instructions will get you a copy of the project up and running on your loc
 <h2>Authors</h2>
 
 <ul>
-  <li> <a href="https://github.com/QuickGlare"> Pierpaolo Coletta </a></li>
-  <li> <a href="https://github.com/shadowaker"> Daniele Ridolfo </a></li>
-  <li> <a href="https://github.com/Wowbagger1994"> Enrik Braho </a></li>
-  <li> <a href="https://github.com/eisehorn"> Francesco Giuliano </a></li>
+  <li> <a href="https://github.com/QuickGlare"> Pierpaolo Coletta </a> <a href="https://www.linkedin.com/in/pierpaolocoletta/">(LinkedIn)</a></li>
+  <li> <a href="https://github.com/shadowaker"> Daniele Ridolfo </a> <a href="https://www.linkedin.com/in/danieleridolfo/">(LinkedIn)</a></li>
+  <li> <a href="https://github.com/Wowbagger1994"> Enrik Braho </a> <a href="https://www.linkedin.com/in/ebraho/">(LinkedIn)</a></li>
+  <li> <a href="https://github.com/eisehorn"> Francesco Giuliano </a> <a href="https://www.linkedin.com/in/francesco-giuliano95/">(LinkedIn)</a></li>
   </ul>
 
