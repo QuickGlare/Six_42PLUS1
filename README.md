@@ -7,6 +7,8 @@ You can quickly and easily ask for specific financial information, such as reven
 
 <p>Our chatbot uses graphing technology to present financial data in a way that's intuitive and easy to interpret, so you can make informed decisions with confidence, and with the ability to chat with our bot anytime, anywhere, you can stay on top of your finances no matter where you are.</p>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DiYWuQH8N44/0.jpg)](https://www.youtube.com/watch?v=DiYWuQH8N44)
+
 <h2>Getting Started</h2>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
