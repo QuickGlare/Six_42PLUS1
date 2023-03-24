@@ -1,28 +1,40 @@
-# Create T3 App
+<h1>SIX_42plus1</h1>
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+<p><b>SIX_42plus1</b> is a chatbot designed to help the average user of <a href="https://www.six-group.com/en/home.html">Six</a> access financial data.</p>
+The Chatbot provides easy access to comprehensive financial data, presented in clear, easy-to-understand graphical format.
+<p>
+You can quickly and easily ask for specific financial information, such as revenue, expenses, and cash flow, and receive real-time updates on market trends and performance using the Six API.</p>
 
-## What's next? How do I make an app with this?
+<p>Our chatbot uses graphing technology to present financial data in a way that's intuitive and easy to interpret, so you can make informed decisions with confidence, and with the ability to chat with our bot anytime, anywhere, you can stay on top of your finances no matter where you are.</p>
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+<h2>Getting Started</h2>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+<h3>Prerequisites</h3>
+<b>Node.js</b>
+<p>
+  
+  To run the app you need <a href="https://nodejs.org/en">Node.js</a> installed in your machine.</p>
+<p>You can follow this <a href="https://nodejs.org/en/download/package-manager">guide</a></p>
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+<h2>Deployment</h2>
+<p>
+  Go to the root of the project directory and run this code: </p>
+<p><code>npm run dev</code></p>
 
-## Learn More
+<h3>Built With</h3>
+<ul>
+  <li> Node.js </li>
+  <li> T3stack </li>
+  <li> Typescript </li>
+  </ul>
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+<h2>Authors</h2>
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+<ul>
+  <li> <a href="https://github.com/QuickGlare"> Pierpaolo Coletta </a></li>
+  <li> <a href="https://github.com/shadowaker"> Daniele Ridolfo </a></li>
+  <li> <a href="https://github.com/Wowbagger1994"> Enrik Braho </a></li>
+  <li> <a href="https://github.com/eisehorn"> Francesco Giuliano </a></li>
+  </ul>
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
